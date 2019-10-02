@@ -1,0 +1,41 @@
+{
+  "name": "react-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "lint": "eslint src/**/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "jsonwebtoken": "^8.5.1",
+    "node-sass": "^4.12.0",
+    "react": "^16.10.1",
+    "react-cookies": "^0.1.1",
+    "react-dom": "^16.10.1",
+    "react-scripts": "^3.1.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-jest": "^22.17.0",
+    "eslint-plugin-react": "^7.15.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
