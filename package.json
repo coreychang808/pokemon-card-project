@@ -15,7 +15,7 @@
   "dependencies": {
     "jest": "^24.9.0",
     "jsonwebtoken": "^8.5.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.1",
     "react-cookies": "^0.1.1",
     "react-dom": "^16.10.1",
